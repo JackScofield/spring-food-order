@@ -4,5 +4,5 @@
 * Database: MySql
 * Frontend: React + ant design
 * Deployment: AWS EC2 + RDS + docker
-* Website(updated): http://3.239.35.255/
+* Website(updated): http:/44.204.125.56
 * 
